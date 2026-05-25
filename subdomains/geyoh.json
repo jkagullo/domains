@@ -9,6 +9,10 @@
   "records": {
     "CNAME": {
       "value": "3cf40cb679c6d760.vercel-dns-017.com."
+    },
+    "TXT": {
+      "value": "vc-domain-verify=geyoh.is-pinoy.dev,de20c9186930a3a989e9",
+      "provider": "vercel"
     }
   }
 }
